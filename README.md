@@ -29,3 +29,6 @@ Other useful commands to see what is going on the git repository:
 ## Practice Output 
 1. Your repo url in Github
 2. Your answer for What is the difference between `add`, `commit`, and `push`?
+
+1. https://github.com/carolchu08/git-basic
+2. `add` means add the changes to the staging area; `commit` means commit the changes; `push` means push local commits to publish them to GitHub.
